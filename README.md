@@ -1,4 +1,4 @@
-# email_bom
+# email_bom 🔥
 
 apt update
 
